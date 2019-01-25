@@ -218,7 +218,7 @@
                     </view>
                     <connections>
                         <outlet property="division" destination="gsa-tb-2jL" id="sNe-cZ-p10"/>
-                        <outlet property="erase" destination="Nvz-gW-GSk" id="z3X-8s-E6F"/>
+                        <outlet property="eraseButton" destination="Nvz-gW-GSk" id="R66-oP-YEP"/>
                         <outlet property="multiplication" destination="GMF-M9-tAl" id="c2K-rG-wzy"/>
                         <outlet property="percent" destination="YUL-a6-iHz" id="C4x-dl-2dU"/>
                         <outlet property="resultLabel" destination="oME-1p-jJc" id="P65-bL-1LP"/>
